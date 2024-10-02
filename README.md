@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosra-mtz" alt="yosra-mtz" /></a> </p>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **ML**and **DL**
 
 - 👯 I’m looking to collaborate on **freelance projects**
 
